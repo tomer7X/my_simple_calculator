@@ -9,6 +9,7 @@ A basic calculator GUI implemented in Python using Tkinter.
 - Addition, subtraction, multiplication, and division.
 - Square root calculation.
 - Parentheses for complex expressions.
+- Quadratic equation solver
 
 ## Installation
 
