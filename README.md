@@ -1,30 +1,25 @@
 # my_simple_calculator
 
-Brief description or tagline for your project.
+# Calculator App
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Provide a brief introduction to your project, including its purpose, key features, and any relevant information.
+A basic calculator GUI implemented in Python using Tkinter.
 
 ## Features
 
-- List key features of your project.
+- Addition, subtraction, multiplication, and division.
+- Square root calculation.
+- Parentheses for complex expressions.
 
 ## Installation
 
-Provide instructions on how to install and set up your project. Include any dependencies or prerequisites.
+Ensure you have Python installed.
 
 ```bash
-# Example installation commands
+# Clone the repository
 git clone https://github.com/tomer7X/my_simple_calculator.git
+
+# Navigate to the project directory
 cd my_simple_calculator
 
+# Run the calculator
+python Main.py
